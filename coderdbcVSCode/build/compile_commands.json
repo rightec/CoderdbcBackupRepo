@@ -1,0 +1,52 @@
+[
+{
+  "directory": "C:/Lavoro/Clienti/SpinDox/FerrariGES/CAN_Coderdbc/coderdbcVSCode/build",
+  "command": "C:/MinGW/bin/g++.exe  @CMakeFiles/coderdbc.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles/coderdbc.dir/codegen/c-main-generator.cpp.obj -c C:/Lavoro/Clienti/SpinDox/FerrariGES/CAN_Coderdbc/coderdbcVSCode/src/codegen/c-main-generator.cpp",
+  "file": "C:/Lavoro/Clienti/SpinDox/FerrariGES/CAN_Coderdbc/coderdbcVSCode/src/codegen/c-main-generator.cpp"
+},
+{
+  "directory": "C:/Lavoro/Clienti/SpinDox/FerrariGES/CAN_Coderdbc/coderdbcVSCode/build",
+  "command": "C:/MinGW/bin/g++.exe  @CMakeFiles/coderdbc.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles/coderdbc.dir/codegen/c-util-generator.cpp.obj -c C:/Lavoro/Clienti/SpinDox/FerrariGES/CAN_Coderdbc/coderdbcVSCode/src/codegen/c-util-generator.cpp",
+  "file": "C:/Lavoro/Clienti/SpinDox/FerrariGES/CAN_Coderdbc/coderdbcVSCode/src/codegen/c-util-generator.cpp"
+},
+{
+  "directory": "C:/Lavoro/Clienti/SpinDox/FerrariGES/CAN_Coderdbc/coderdbcVSCode/build",
+  "command": "C:/MinGW/bin/g++.exe  @CMakeFiles/coderdbc.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles/coderdbc.dir/codegen/conditional-tree.cpp.obj -c C:/Lavoro/Clienti/SpinDox/FerrariGES/CAN_Coderdbc/coderdbcVSCode/src/codegen/conditional-tree.cpp",
+  "file": "C:/Lavoro/Clienti/SpinDox/FerrariGES/CAN_Coderdbc/coderdbcVSCode/src/codegen/conditional-tree.cpp"
+},
+{
+  "directory": "C:/Lavoro/Clienti/SpinDox/FerrariGES/CAN_Coderdbc/coderdbcVSCode/build",
+  "command": "C:/MinGW/bin/g++.exe  @CMakeFiles/coderdbc.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles/coderdbc.dir/codegen/c-sigprinter.cpp.obj -c C:/Lavoro/Clienti/SpinDox/FerrariGES/CAN_Coderdbc/coderdbcVSCode/src/codegen/c-sigprinter.cpp",
+  "file": "C:/Lavoro/Clienti/SpinDox/FerrariGES/CAN_Coderdbc/coderdbcVSCode/src/codegen/c-sigprinter.cpp"
+},
+{
+  "directory": "C:/Lavoro/Clienti/SpinDox/FerrariGES/CAN_Coderdbc/coderdbcVSCode/build",
+  "command": "C:/MinGW/bin/g++.exe  @CMakeFiles/coderdbc.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles/coderdbc.dir/codegen/filewriter.cpp.obj -c C:/Lavoro/Clienti/SpinDox/FerrariGES/CAN_Coderdbc/coderdbcVSCode/src/codegen/filewriter.cpp",
+  "file": "C:/Lavoro/Clienti/SpinDox/FerrariGES/CAN_Coderdbc/coderdbcVSCode/src/codegen/filewriter.cpp"
+},
+{
+  "directory": "C:/Lavoro/Clienti/SpinDox/FerrariGES/CAN_Coderdbc/coderdbcVSCode/build",
+  "command": "C:/MinGW/bin/g++.exe  @CMakeFiles/coderdbc.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles/coderdbc.dir/codegen/fs-creator.cpp.obj -c C:/Lavoro/Clienti/SpinDox/FerrariGES/CAN_Coderdbc/coderdbcVSCode/src/codegen/fs-creator.cpp",
+  "file": "C:/Lavoro/Clienti/SpinDox/FerrariGES/CAN_Coderdbc/coderdbcVSCode/src/codegen/fs-creator.cpp"
+},
+{
+  "directory": "C:/Lavoro/Clienti/SpinDox/FerrariGES/CAN_Coderdbc/coderdbcVSCode/build",
+  "command": "C:/MinGW/bin/g++.exe  @CMakeFiles/coderdbc.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles/coderdbc.dir/helpers/formatter.cpp.obj -c C:/Lavoro/Clienti/SpinDox/FerrariGES/CAN_Coderdbc/coderdbcVSCode/src/helpers/formatter.cpp",
+  "file": "C:/Lavoro/Clienti/SpinDox/FerrariGES/CAN_Coderdbc/coderdbcVSCode/src/helpers/formatter.cpp"
+},
+{
+  "directory": "C:/Lavoro/Clienti/SpinDox/FerrariGES/CAN_Coderdbc/coderdbcVSCode/build",
+  "command": "C:/MinGW/bin/g++.exe  @CMakeFiles/coderdbc.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles/coderdbc.dir/parser/dbclineparser.cpp.obj -c C:/Lavoro/Clienti/SpinDox/FerrariGES/CAN_Coderdbc/coderdbcVSCode/src/parser/dbclineparser.cpp",
+  "file": "C:/Lavoro/Clienti/SpinDox/FerrariGES/CAN_Coderdbc/coderdbcVSCode/src/parser/dbclineparser.cpp"
+},
+{
+  "directory": "C:/Lavoro/Clienti/SpinDox/FerrariGES/CAN_Coderdbc/coderdbcVSCode/build",
+  "command": "C:/MinGW/bin/g++.exe  @CMakeFiles/coderdbc.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles/coderdbc.dir/parser/dbcscanner.cpp.obj -c C:/Lavoro/Clienti/SpinDox/FerrariGES/CAN_Coderdbc/coderdbcVSCode/src/parser/dbcscanner.cpp",
+  "file": "C:/Lavoro/Clienti/SpinDox/FerrariGES/CAN_Coderdbc/coderdbcVSCode/src/parser/dbcscanner.cpp"
+},
+{
+  "directory": "C:/Lavoro/Clienti/SpinDox/FerrariGES/CAN_Coderdbc/coderdbcVSCode/build",
+  "command": "C:/MinGW/bin/g++.exe  @CMakeFiles/coderdbc.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles/coderdbc.dir/maincli.cpp.obj -c C:/Lavoro/Clienti/SpinDox/FerrariGES/CAN_Coderdbc/coderdbcVSCode/src/maincli.cpp",
+  "file": "C:/Lavoro/Clienti/SpinDox/FerrariGES/CAN_Coderdbc/coderdbcVSCode/src/maincli.cpp"
+}
+]

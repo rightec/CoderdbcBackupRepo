@@ -1,0 +1,3 @@
+C:/Lavoro/Clienti/SpinDox/FerrariGES/CAN_Coderdbc/coderdbcVSCode/build/CMakeFiles/coderdbc.dir
+C:/Lavoro/Clienti/SpinDox/FerrariGES/CAN_Coderdbc/coderdbcVSCode/build/CMakeFiles/edit_cache.dir
+C:/Lavoro/Clienti/SpinDox/FerrariGES/CAN_Coderdbc/coderdbcVSCode/build/CMakeFiles/rebuild_cache.dir
